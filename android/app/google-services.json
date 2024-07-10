@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "334401586426",
+    "project_id": "globaly-abc",
+    "storage_bucket": "globaly-abc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334401586426:android:59a6c60954093401f2b543",
+        "android_client_info": {
+          "package_name": "com.example.flutter_todo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeLsMZkFIQFpNfdgRFhIdNLMpXAvVnajY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
